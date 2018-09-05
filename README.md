@@ -1,3 +1,14 @@
+#TIC TAC TOE made in React Js:
+Lets you play tic-tac-toe,
+Indicates when a player has won the game,
+Stores a game’s history as a game progresses,
+Allows players to review a game’s history and see previous versions of a game’s board.
+
+#Commands
+npm run build #to run build
+npm run start #to start server
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
